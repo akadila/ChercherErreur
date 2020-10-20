@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    background-color: lightpink;
+    font-weight:bold;
+    font-size: x-large;
+}
+html,
+body{
+    
+    margin:0;
+    padding: 0;
+    color:purple;
+
+}
+
+.square{
+    width: 200px;
+    height: 100px;
+    background-color:  0,5;
+    border-color: 1px solid black;
+}
+
+.error{
+    color:darkred;
+    font-weight: bolder;
+}
+#btn{
+    width: 120px;
+    height: 50px;
+    color:purple;
+    background-color: thistle;
+    border-radius: 15px;
+
+}
+#name,
+#birth{
+    color: #ffffff;
+}
